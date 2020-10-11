@@ -206,4 +206,3 @@ print(truckCar1.description)
 print(truckCar2.description)
 print(sportCar1.description)
 print(sportCar2.description)
-
