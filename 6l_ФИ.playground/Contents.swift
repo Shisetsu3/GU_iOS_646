@@ -1,5 +1,6 @@
 
 class CarTravel {                           // Статистика по макс. скорости и пробегу машин
+    
     var allKm : Int                      // Пробег
     
     init(allKm: Int) {
